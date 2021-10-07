@@ -71,7 +71,7 @@ Click Shadow-Sir_V3 logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ichu786780/Shadow-Sir_V3-Mwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-sir-v1/-Shadow-Sir_V3.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-Sir-V1/-Shadow-Sir_V3.git)
      </div>
 <br>
 <br >
